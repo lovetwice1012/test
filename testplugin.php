@@ -1,7 +1,4 @@
 <?php
-/*
- This code does not work!
-*/
 
 namespace testplugin;
 
